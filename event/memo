@@ -1,0 +1,14 @@
+<section class="recruite">
+      <div class="recruite-inner">
+        <div class="recruite-text">
+          <h2 class="title">RECRUITE<span>採用情報</span></h2>
+          <h3>タイトル</h3>
+          <p>本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本</p>
+          <a class="button" href="#">RECRUITE</a>
+        </div>
+        <div class="recruite-img">
+          <img src="./images/recruite/recruite.png" alt="">
+        </div>
+        
+      </div>
+    </section>
